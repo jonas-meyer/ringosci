@@ -1,0 +1,9 @@
+*.pdf
+*.tex
+*.fdb_latexmk
+*.log
+*.aux
+*makefile
+*.synctex.gz
+*.fls
+*ringosci
